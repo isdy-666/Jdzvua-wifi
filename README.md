@@ -91,3 +91,10 @@
 2. 设置任务计划程序直接调用 `.exe` 文件。
 
 ---
+
+## iOS 版快捷方式
+
+- [登录校园网](https://www.icloud.com/shortcuts/988ff511b2064655b9296f571b0a8660)
+- [登出校园网](https://www.icloud.com/shortcuts/de2a21fb559843d199c43ac304bafa45)
+
+点击相应链接即可跳转并添加到您的 iOS 设备上。
